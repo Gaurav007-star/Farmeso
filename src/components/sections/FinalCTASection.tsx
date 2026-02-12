@@ -2,7 +2,7 @@
 
 import { Button } from "@/components/ui/button"
 import { ArrowUpRight } from 'lucide-react'
-import CtaBackground from "@/assets/cta/cta.png";
+import CtaBackground from "../../assets/cta/cta.png";
 
 const FinalCTASection = () => {
     return (
